@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_template_detail">
+    <sc_template_detail action="INSERT_OR_UPDATE">
+        <applies_to_multi_row_variable_set>false</applies_to_multi_row_variable_set>
+        <item_option_new display_value="Fulfillment steps">68637583c7022010ca6da1e603c260da</item_option_new>
+        <mandatory>false</mandatory>
+        <readonly>false</readonly>
+        <restricted>false</restricted>
+        <set/>
+        <sys_class_name>sc_template_detail</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-04 09:35:15</sys_created_on>
+        <sys_id>1ee9efdfc3a112103fc8502ed4013198</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="GitDemo" source="x_1521157_gitdemo">084c0c10c36512103fc8502ed401318f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitDemo">084c0c10c36512103fc8502ed401318f</sys_scope>
+        <sys_update_name>sc_template_detail_1ee9efdfc3a112103fc8502ed4013198</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-04 09:35:15</sys_updated_on>
+        <template display_value="Workplace Services">6659ef5bc3a112103fc8502ed40131ee</template>
+        <value/>
+    </sc_template_detail>
+</record_update>
